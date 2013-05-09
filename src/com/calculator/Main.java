@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.text.Editable;
 
+
 public class Main extends Activity {
 	EditText FirstValue;
 	EditText SecondValue;
